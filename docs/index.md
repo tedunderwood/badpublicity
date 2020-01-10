@@ -76,7 +76,7 @@ But I wasn't really trying to make an argument about literary history today. We'
 
 ### Acknowledgments
 
-Much of the work described here was carried out at the National Humanities Center while I was supported by an M. H. Abrams fellowship. It has also been highly collaborative work; in particular, Wenyi Shang parsed the index to the *Book Review Digest* while I was parsing the texts of the reviews; pairing the two data sets allowed us to identify fiction. Shang's work was supported by the NovelTM project, directed by Andrew Piper and funded by SSHRC. We would be unable to learn anything about the BRD after 1924 without the help of HathiTrust Research Center (and in particular J. Stephen Downie and Eleanor Dickson). This is also a piece of a large, loosely collaborative project that includes contributions from Mark Algee-Hewitt, Kent Chang, Yuerong Hu, Matthew Lavin, Aniruddha Sharma, Shubhangi Singhal, Dan Sinykin, Richard So, Jessica Witte, and Peizhen Wu.
+Much of the work described here was carried out at the National Humanities Center while I was supported by an M. H. Abrams fellowship. It has also been highly collaborative work; in particular, Wenyi Shang parsed the index to the *Book Review Digest* while I was parsing the texts of the reviews; pairing the two data sets allowed us to identify fiction. Shang's work was supported by the NovelTM project, directed by Andrew Piper and funded by SSHRC. We would be unable to learn anything about the BRD after 1924 without the help of HathiTrust Research Center (and in particular J. Stephen Downie and Eleanor Dickson). This is also a piece of a large, loosely collaborative enterprise that may include contributions from Mark Algee-Hewitt, Kent Chang, Yuerong Hu, Matthew Lavin, Aniruddha Sharma, Shubhangi Singhal, Dan Sinykin, Richard So, Jessica Witte, and Peizhen Wu.
 
 ### References
 
@@ -88,9 +88,9 @@ Much of the work described here was carried out at the National Humanities Cente
 
 [4] Cordell, Ryan. “Reprinting, Circulation, and the Network Author in Antebellum Newspapers.” *American Literary History* 27.3 (2015): 1–29.
 
-[5] DeWitt, Anne. “Advances in the Visualization of Data: The Network of Genre in the Victorian Periodical Press.” Victorian Periodicals Review 48.2 (2015): 161–82.
+[5] DeWitt, Anne. “Advances in the Visualization of Data: The Network of Genre in the Victorian Periodical Press.” *Victorian Periodicals Review* 48.2 (2015): 161–82.
 
-[6] Tatlock, Lynne, et al. “Crossing Over: Gendered Reading Formations at the Muncie Public Library, 1891-1902.” March 22, 2018, Journal of Cultural Analytics. [http://culturalanalytics.org/2018/03/crossing-over-gendered-reading-formations-at-the-muncie-public-library-1891-1902/](http://culturalanalytics.org/2018/03/crossing-over-gendered-reading-formations-at-the-muncie-public-library-1891-1902/)
+[6] Tatlock, Lynne, et al. “Crossing Over: Gendered Reading Formations at the Muncie Public Library, 1891-1902.” March 22, 2018, *Journal of Cultural Analytics.* [http://culturalanalytics.org/2018/03/crossing-over-gendered-reading-formations-at-the-muncie-public-library-1891-1902/](http://culturalanalytics.org/2018/03/crossing-over-gendered-reading-formations-at-the-muncie-public-library-1891-1902/)
 
 [7] Schmidt, Benjamin. "Reading Digital Sources: A Case Study in Ship's Logs." Nov 15, 2012. [http://sappingattention.blogspot.com/2012/11/reading-digital-sources-case-study-in.html](http://sappingattention.blogspot.com/2012/11/reading-digital-sources-case-study-in.html)
 
