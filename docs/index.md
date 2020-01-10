@@ -2,7 +2,7 @@
 
 Book historians and distant readers share a willingness to grapple with large datasets, and one premise of this panel is that the two groups of scholars can learn a lot from each other.
 
-But of course we can learn from each other because we have different approaches. In fact, until the last few years, we were talking about basically different things. Distant readers have tended to begin by collecting one copy of every title we could get, dated by first publication. But, as Katherine Bode has rightly pointed out, a collection dated by first publication won't tell you much about reading. A book like *Little Women* is still being reprinted and read today.
+But of course we can learn from each other because we have different approaches. In fact, until the last few years, we were talking about basically different things. Distant readers have tended to begin by collecting one copy of every title we could get, dated by first publication. But, as Katherine Bode has rightly pointed out, a collection dated by first publication won't tell you much about reading. [1] A book like *Little Women* is still being reprinted and read today.
 
 For that matter, even if we're interested in the year 1868, one copy of each title isn't a great way to represent reception. *Little Women* may have been more important than other books—or important in a different way—even at the time. For that reason, James English has stressed that a full picture of literary culture needs to talk about valuation.
 
@@ -20,9 +20,11 @@ Maybe our job is instead to create a truly representative sample of publications
 
 So my take on this is: we might as well start by acknowledging that the past can be seen from many different angles, and our task as historians is not to construct an unbiased source,—but to understand each source, as Ben Schmidt has put it, "through its biases." This may be especially true in the humanities, but even climate scientists grapple with similar problems. How do we reconstruct the history of climate? Scientists can't sample weather stations evenly distributed across the globe and across the last ten million years, because the past—rather awkwardly—doesn't exist. What we have instead are traces. Tree rings from one place and time—and ice cores that preserve evidence of a different, partly overlapping period—and so on. Each source tells a different story, but by comparing them we can ask why they diverge and where they overlap.
 
+![Sources of book reviews](reviewsources.png)
+
 Similarly with book reviews, we're going to have many different collections, created at different times and for different reasons. Right now several groups of scholars (at Illinois and elsewhere) are trying to turn those collections into machine-readable structured data. We know that each picture will be incomplete, but our goal is to produce multiple overlapping pictures. I won't try to describe the whole enterprise, because it isn't mine to describe; it's a loose coalition of independent projects. 
 
-I'll talk just about what we're doing at Illinois, and actually just one part of what we're doing—which is gathering data from one of the great print indexes produced for twentieth-century reference libraries—the Book Review Digest of H. W. Wilson & Co.
+I'll talk just about what we're doing at Illinois, and actually just one part of what we're doing—which is gathering data from one of the great print indexes produced for twentieth-century reference libraries—the [Book Review Digest of H. W. Wilson & Co.](https://babel.hathitrust.org/cgi/pt?id=uiug.30112013681645&view=1up&seq=7)
 
 In your home library, somewhere, there is a ten foot wide, floor-to-ceiling section of shelving devoted to this digest. It was first published in 1905, by the same company that prints the Reader's Guide to Periodical Literature. But where the Reader's Guide only provides metadata, the Book Review Digest provides excerpts of reviews and aims to make it possible for you to decide whether to buy a book by browsing the excerpts. This is what it looks like. 
 
@@ -32,7 +34,7 @@ As you can see, there's an initial note describing the book, followed by judgmen
 
 ![More reviews of Joyce](joyce2.png)
 
-One the other hand, the Dial quite likes the book, the Independent is mixed, and the Nation quite negative ("nasty ... pseudo-realism"). If you don't have time to read the excerpts, many reviews are accompanied by a symbol that summarizes the sentiment. There are four levels: plus is good, minus is bad, and in the middle, plus-minus is better than minus-plus. Notice also (this is going to be important) that each of these entries reports the length of the the original review.
+One the other hand, *The Dial* quite likes the book, *The Independent* is mixed, and *The Nation* even more negative ("nasty ... pseudo-realism"). If you don't have time to read the excerpts, many reviews are accompanied by a symbol that summarizes the sentiment. There are four levels: plus is good, minus is bad, and in the middle, plus-minus is better than minus-plus. Notice also (this is going to be important) that each of these entries reports the length of the the original review.
 
 The BRD doesn't of course include all book reviews. It indexes a particular set of about fifty publications: mostly US, some British, mostly for a general audience, but some scholarly journals or literary magazines. The specific publications keep changing across the history of the digest. So not all books will be covered—just books that were reviewed in those publications. In short, there is nothing universal about the BRD; it's a perspective from a particular vantage point in North America.
 
@@ -54,9 +56,26 @@ That should I think be a little surprising. We often talk as if reviewers' judgm
 
 There is on the other hand very strong evidence that successful books get more reviews and longer reviews. When we add up those wordcount figures for all of a books' reviews, and plot the total number of words spent on a book, the bestsellers and Pulitzer-winning authors are leading the pack, getting four to five times as much attention as the average say Bobbs-Merrill author. I can't say which of these things is causing the other—even to speculate we would have to look in more detail at the dates of reviews—but it's certainly a correlation.
 
-I guess this evidence points to a familiar lesson. People often say "there's no such thing as bad publicity," and if you believe that, you would expect the sheer amount of coverage a book gets to matter more than positive or negative spin. On the other hand, I bet people in this room who have written books can remember that it was hard to trust that maxim in your heart at the moment you got a bad review. So perhaps it will be useful to have hard evidence that the maxim is true. At least in the US, in the 1920s, and at the high end of the market, bad reviews don't seem to have hurt. If anything, they helped, by increasing the total amount of oxygen in the room.
+I guess this evidence points to a familiar lesson. [8] People often say "there's no such thing as bad publicity," and if you believe that, you would expect the sheer amount of coverage a book gets to matter more than positive or negative spin. On the other hand, I bet people in this room who have written books can remember that it was hard to trust that maxim in your heart at the moment you got a bad review. So perhaps it will be useful to have hard evidence that the maxim is true. At least in the US, in the 1920s, and at the high end of the market, bad reviews don't seem to have hurt. If anything, they helped, by increasing the total amount of oxygen in the room.
 
 But this is just a first pass at the problem. There are many other things we could try. For instance, I've only tested high-end contrast: average books versus bestsellers or Pulitzer authors. Maybe bad reviews do start to hurt further down the pecking order—if, say, the bad review is the only one you get? We could also ask about the trajectory of an author's career over time. Maybe a bad review doesn't hurt book #3, but does reduce reviewers' interest in book #4?
 
 But I wasn't really trying to make an argument about literary history today. We've only had this data for a month, and nothing I've said does more than scratch the surface of it. I haven't talked about book prices for instance. Heck, I haven't talked about the texts of the reviews themselves! There has been no text analysis in this talk and no statistical modeling. I'm just describing data we're going to have, and gesturing to the future. I think the boundary between approaches will soon get blurry, as we collectively start combining the methods of distant readers with book historians' attention to what Robert Darnton called the "communications circuit"—the full life cycle of a book.
 
+### References
+
+[1] Bode, Katherine. “The Equivalence of ‘Close’ and ‘Distant’ Reading; or, Toward a New Object for Data-Rich Literary History,” *Modern Language Quarterly* 78.1 (March 2017).
+
+[2] English, James F. “The Resistance to Counting, Recounted,” *Representations* blog, January 13, 2015, [https://web.archive.org/web/20190811231910/http://www.representations.org/reponse-to-ulysses-by-numbers-james-f-english/](https://web.archive.org/web/20190811231910/http://www.representations.org/reponse-to-ulysses-by-numbers-james-f-english/).
+
+[3] Boot, Peter. “A Database of Online Book Responses and the Nature of the Literary Thriller.” Digital Humanities 2017, Montreal. [https://dh2017.adho.org/abstracts/208/208.pdf](https://dh2017.adho.org/abstracts/208/208.pdf)
+
+[4] Cordell, Ryan. “Reprinting, Circulation, and the Network Author in Antebellum Newspapers.” *American Literary History* 27.3 (2015): 1–29.
+
+[5] DeWitt, Anne. “Advances in the Visualization of Data: The Network of Genre in the Victorian Periodical Press.” Victorian Periodicals Review 48.2 (2015): 161–82.
+
+[6] Tatlock, Lynne, et al. “Crossing Over: Gendered Reading Formations at the Muncie Public Library, 1891-1902.” March 22, 2018, Journal of Cultural Analytics. [http://culturalanalytics.org/2018/03/crossing-over-gendered-reading-formations-at-the-muncie-public-library-1891-1902/](http://culturalanalytics.org/2018/03/crossing-over-gendered-reading-formations-at-the-muncie-public-library-1891-1902/)
+
+[7] Jackson, Margaret, and Mary Katharine Reely, eds. [*The Book Review Digest.*](https://babel.hathitrust.org/cgi/pt?id=uiug.30112013681645&view=1up&seq=5) Vol. 13. H. W. Wilson, 1917.
+
+[8] The maxim "there's no such thing as bad publicity" is commonly attributed to P. T. Barnum, but lots of things are attributed to Barnum, without much solid evidence. So I guess there is such a thing as bad publicity--which is, when you don't get cited. Ironically this also appears to be true even of the more cautious formulation (often attributed to Mae West): "I don't care what the newspapers say about me as long as they spell my name right." Someone presumably originated that, [but we have no idea how to spell their name.](https://www.nku.edu/~turney/prclass/readings/3eras1x.html)
