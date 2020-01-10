@@ -24,7 +24,15 @@ Similarly with book reviews, we're going to have many different collections, cre
 
 I'll talk just about what we're doing at Illinois, and actually just one part of what we're doing—which is gathering data from one of the great print indexes produced for twentieth-century reference libraries—the Book Review Digest of H. W. Wilson & Co.
 
-In your home library, somewhere, there is a ten foot wide, floor-to-ceiling section of shelving devoted to this digest. It was first published in 1905, by the same company that prints the Reader's Guide to Periodical Literature. But where the Reader's Guide only provides metadata, the Book Review Digest provides excerpts of reviews and aims to make it possible for you to decide whether to buy a book by browsing the excerpts. This is what it looks like. As you can see, there's an initial note describing the book, followed by judgments from various publications. Catholic World complains that Joyce gives a misleading picture of Ireland. One the other hand, the Dial quite likes the book, the Independent is mixed, and the Nation quite negative ("nasty ... pseudo-realism"). If you don't have time to read the excerpts, many reviews are accompanied by a symbol that summarizes the sentiment. There are four levels: plus is good, minus is bad, and in the middle, plus-minus is better than minus-plus. Notice also (this is going to be important) that each of these entries reports the length of the the original review.
+In your home library, somewhere, there is a ten foot wide, floor-to-ceiling section of shelving devoted to this digest. It was first published in 1905, by the same company that prints the Reader's Guide to Periodical Literature. But where the Reader's Guide only provides metadata, the Book Review Digest provides excerpts of reviews and aims to make it possible for you to decide whether to buy a book by browsing the excerpts. This is what it looks like. 
+
+![Entry on Joyce's Portrait of the Artist](joyce1.png)
+
+As you can see, there's an initial note describing the book, followed by judgments from various publications. Catholic World complains that Joyce gives a misleading picture of Ireland. 
+
+![More reviews of Joyce](joyce2.png)
+
+One the other hand, the Dial quite likes the book, the Independent is mixed, and the Nation quite negative ("nasty ... pseudo-realism"). If you don't have time to read the excerpts, many reviews are accompanied by a symbol that summarizes the sentiment. There are four levels: plus is good, minus is bad, and in the middle, plus-minus is better than minus-plus. Notice also (this is going to be important) that each of these entries reports the length of the the original review.
 
 The BRD doesn't of course include all book reviews. It indexes a particular set of about fifty publications: mostly US, some British, mostly for a general audience, but some scholarly journals or literary magazines. The specific publications keep changing across the history of the digest. So not all books will be covered—just books that were reviewed in those publications. In short, there is nothing universal about the BRD; it's a perspective from a particular vantage point in North America.
 
